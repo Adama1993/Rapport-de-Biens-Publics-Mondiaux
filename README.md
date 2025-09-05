@@ -1,0 +1,6 @@
+La protection de l’environnement est présenté comme un bien public mondial qui appelle une coopération entre les différents États dans le monde. ces coopérations se traduisent par des accords internationaux sur l’environnement afin de déterminer comment financer ce bien public, les technologie d’agrégation et le mode fourniture.
+Nous nous basons sur les travaux antérieurs afin d’étudier les incertitudes systématiques dans les accords environnementaux internationaux auto-exécutoires. 
+Notre article des base en l’occurrence celui de Charles D. KOLSTAD propose un modèle standard d’accords environnementaux auto-exécutoire auquel il introduit l’incertitude et l’apprentissage. 
+Cette incertitude concernant les avantages et les coûts peut être résolue entre le moment où un pays s’engage à conclure un accord international et le moment où les pays signataires décident des niveaux d’émission. 
+Nous constatons au cours de cette analyse que l’incertitude et l’apprentissage peuvent modifier la taille d’un accord international sur l’environnement. 
+Dans la suite de notre travail, nous allons présenter la méthode utilisée par l’auteur (section 2) ainsi que les résultats (section 3). la quatrième section sera consacré à une analyse critique et nous finirons par la conclusion
